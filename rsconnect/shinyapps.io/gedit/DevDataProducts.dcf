@@ -1,0 +1,9 @@
+name: DevDataProducts
+account: gedit
+server: shinyapps.io
+appId: 102577
+bundleId: 454201
+url: https://gedit.shinyapps.io/DevDataProducts/
+when: 1463492271.09272
+asMultiple: FALSE
+asStatic: FALSE
